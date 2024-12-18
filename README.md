@@ -5,6 +5,9 @@
 ## **Overview**
 This repository showcases the development and implementation of a machine learning-based solution to accelerate drug discovery for the treatment of **Leishmaniasis**, a neglected tropical disease. This project was undertaken as part of a summer internship at Guru Gobind Singh Indraprastha University.
 
+<img width="398" alt="Screenshot 2024-12-18 at 4 45 32 PM" src="https://github.com/user-attachments/assets/ea1061e1-0a7d-471c-8eb3-b0b9d79c06ab" />
+
+
 ### **Abstract**
 Drug discovery is a time-intensive and costly endeavor. This project applies machine learning (ML) techniques to predict the bioactivity of chemical compounds against Leishmania parasites, leveraging molecular fingerprinting methods and various ML classifiers. The study identifies key molecular features and develops ensemble models to improve prediction accuracy, reducing the overall cost and time for drug development.
 
