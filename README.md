@@ -1,4 +1,4 @@
-Here's the code you can use to paste this content directly into your `README.md` file:
+
 
 # Leishmaniasis Drug Discovery: Machine Learning Approach
 
