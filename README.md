@@ -75,10 +75,12 @@ The reduction from 278,045 to approximately 10,000 entries was necessitated by t
    - Applied dimensionality reduction using PCA and t-SNE for visualization.
 
    ### **PCA Plot**
-   *Insert PCA plot here*
+   <img width="425" alt="Screenshot 2024-12-18 at 4 46 56 PM" src="https://github.com/user-attachments/assets/9e6e030e-02a5-410d-832f-59b8ef3f7299" />
+
 
    ### **t-SNE Plot**
-   *Insert t-SNE plot here*
+   
+   <img width="432" alt="Screenshot 2024-12-18 at 4 47 38 PM" src="https://github.com/user-attachments/assets/8822eee9-d192-440c-a45c-89cb5bec644a" />
 
 2. **Algorithms Used**
    - **Classical Models**: Random Forest, Logistic Regression, Gradient Boosting, KNN, SVC, Decision Tree, AdaBoost.
@@ -105,11 +107,13 @@ The reduction from 278,045 to approximately 10,000 entries was necessitated by t
 ### **Visual Highlights**
 1. **PCA and t-SNE Plots**
    - Visualize molecular fingerprint distributions.
-   - *Insert PCA and t-SNE plots here.*
+   
 
 2. **Heatmaps**
    - Showcase performance metrics for each fingerprint and classifier.
-   - *Insert heatmap showing model evaluation metrics here.*
+    <img width="437" alt="Screenshot 2024-12-18 at 4 48 37 PM" src="https://github.com/user-attachments/assets/3e8d7ecc-5e26-4f1c-9bd3-265995728e95" /><img width="457" alt="Screenshot 2024-12-18 at 4 50 04 PM" src="https://github.com/user-attachments/assets/fc60ca40-2831-4044-9ba3-eca5ce57b916" />
+
+  
 
 3. **Bar Graph Comparisons**
    - Accuracy across models and fingerprints.
